@@ -1,0 +1,7 @@
+image_name,canvas_x,canvas_y,canvas_width,canvas_height
+bedroom_image.png,263,109,488,346
+bathroom_image.png,362,275,358,260
+hallway_image.png,301,168,378,270
+kitchen_image.png,271,62,460,327
+livingroom_image.png,286,97,525,362
+office_image.png,289,85,576,360
