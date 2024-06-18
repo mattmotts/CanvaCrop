@@ -1,0 +1,6 @@
+.venv3.8/
+.python-version
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
